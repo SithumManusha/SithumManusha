@@ -20,16 +20,6 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **Ledgerly**<br>Autonomous AI Financial Copilot & Collaborative Ledger | `React 19` `TypeScript` `tRPC 11` `PostgreSQL` `Drizzle ORM` `SSE` `Vitest` | • 0–100 Financial Health Scoring & spending velocity anomaly alerts (>25% surge)<br>• Interactive "What-If" Runway Simulator with 6-month projected Recharts curves<br>• Real-time Server-Sent Events (SSE) notification bell & collaborative audit stream<br>• 4 Debt-minimization split models with in-memory streaming PDFKit reports<br>• **68/68 Automated Tests Passing across 11 test suites** | [Live Demo](https://ledgerly-mbcd.onrender.com) • [GitHub](https://github.com/SithumManusha/Ledgerly) |
-| **CareerFlow Enterprise**<br>Distributed ATS Resume Optimizer & AI Interview Platform | `Next.js 15` `React 19` `FastAPI` `Python` `PostgreSQL` `Docker` | • Distributed ATS scoring pipeline with semantic keyword extraction<br>• Real-time mock technical interview simulation engine with NLP feedback<br>• Containerized microservices deployment with automated CI/CD pipelines | [GitHub](https://github.com/SithumManusha/careerflow) |
-| **Ryzera POS**<br>Distributed Retail ERP & Offline-First POS | `Next.js 16` `NestJS` `IndexedDB` `Prisma` `PostgreSQL` `Socket.io` | • Offline-first Progressive Web App (PWA) with sub-50ms checkouts during blackouts<br>• Background service worker synchronization with cryptographic transaction UUIDs<br>• Idempotency tokens and atomic database locks preventing inventory collisions | [GitHub](https://github.com/SithumManusha/Ryzera-POS) |
-
----
-
 ### 🛠️ Programming Languages & Tech Stack
 
 <p align="left">
