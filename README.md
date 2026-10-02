@@ -1,5 +1,6 @@
 # Hi there, I'm Sithum Manusha! 👋
 ### 🎓 2nd Year IT & Management Undergraduate @ University of Moratuwa (UOM)
+**Full-Stack Software Systems & AI Applications Engineer**
 
 <p align="left">
   <a href="https://linkedin.com/in/sithum-manusha" target="_blank">
@@ -13,23 +14,53 @@
 ---
 
 ### 💼 Career & Internship Focus
-*   🌱 **Currently Learning:** System Analysis & Design (SAD), Advanced Database Administration, and Web Architectures.
-*   💬 **Let's Talk About:** Relational Database Design (3NF), Object-Oriented Programming, Agile Scrum methodologies, and UI prototyping.
+*   🌱 **Specialization:** Distributed Web Architectures, Autonomous AI Intelligence Layers, and Type-Safe Systems.
+*   🚀 **Target Goal:** Open for **Software Engineering / Full-Stack Internships** starting **November 2026**.
+*   💬 **Let's Talk About:** Type-safe RPC architectures (tRPC), Event-driven real-time synchronization (SSE), Autonomous Copilots, and Relational Database Design (PostgreSQL 3NF).
 
 ---
 
-### 🛠️ Technical Matrix & Skills
+### 🚀 Featured Engineering Projects
 
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="20"> |
-| **Analysis & System Design** | <img src="https://img.shields.io/badge/SAD-009688?style=flat-square&logo=diagrams.net&logoColor=white" alt="SAD" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/OOAD-3F51B5?style=flat-square&logo=codeforces&logoColor=white" alt="OOAD" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/UML_Modeling-0073EC?style=flat-square&logo=diagrams.net&logoColor=white" alt="UML Modeling" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Requirements_Gathering-FF9800?style=flat-square&logo=gitbook&logoColor=white" alt="Requirements Gathering" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" height="20"> |
-| **Methodologies & Frameworks** | <img src="https://img.shields.io/badge/Agile_Scrum-4CAF50?style=flat-square&logo=scrumalliance&logoColor=white" alt="Agile Scrum" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/SDLC_Lifecycles-9C27B0?style=flat-square&logo=gitbook&logoColor=white" alt="SDLC Lifecycles" height="20"> |
-| **Tools & Platforms** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench" height="20"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" height="20"> |
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Ledgerly**<br>Autonomous AI Financial Copilot & Collaborative Ledger | `React 19` `TypeScript` `tRPC 11` `PostgreSQL` `Drizzle ORM` `SSE` `Vitest` | • 0–100 Financial Health Scoring & spending velocity anomaly alerts (>25% surge)<br>• Interactive "What-If" Runway Simulator with 6-month projected Recharts curves<br>• Real-time Server-Sent Events (SSE) notification bell & collaborative audit stream<br>• 4 Debt-minimization split models with in-memory streaming PDFKit reports<br>• **68/68 Automated Tests Passing across 11 test suites** | [Live Demo](https://ledgerly-mbcd.onrender.com) • [GitHub](https://github.com/SithumManusha/Ledgerly) |
+| **CareerFlow Enterprise**<br>Distributed ATS Resume Optimizer & AI Interview Platform | `Next.js 15` `React 19` `FastAPI` `Python` `PostgreSQL` `Docker` | • Distributed ATS scoring pipeline with semantic keyword extraction<br>• Real-time mock technical interview simulation engine with NLP feedback<br>• Containerized microservices deployment with automated CI/CD pipelines | [GitHub](https://github.com/SithumManusha/careerflow) |
+| **Ryzera POS**<br>Distributed Retail ERP & Offline-First POS | `Next.js 16` `NestJS` `IndexedDB` `Prisma` `PostgreSQL` `Socket.io` | • Offline-first Progressive Web App (PWA) with sub-50ms checkouts during blackouts<br>• Background service worker synchronization with cryptographic transaction UUIDs<br>• Idempotency tokens and atomic database locks preventing inventory collisions | [GitHub](https://github.com/SithumManusha/Ryzera-POS) |
+| **Automated Robotic Sorting System**<br>Dual-Microcontroller Mechatronic Platform | `Embedded C++` `Arduino Mega` `Arduino Uno` `RFID (SPI)` `UART` | • Dual-MCU architecture eliminating real-time kinematic concurrency bottlenecks<br>• 4-DOF articulated robotic arm trajectory planning with ultrasonic bin protection<br>• High-speed RFID transponder item classification and diverter flap actuation | [GitHub](https://github.com/SithumManusha/robotic-sorting-system) |
 
 ---
 
-### 📊 My GitHub Activity Graph
+### 🛠️ Programming Languages & Tech Stack
+
+<p align="left">
+  <!-- Languages & Frameworks -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,java,python,postgres,mysql,tailwind,vite,html,css" alt="Languages & Frameworks" />
+  </a>
+</p>
+
+### 🧰 Tools & Platforms I Use Daily
+
+<p align="left">
+  <!-- Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma,jira" alt="Tools" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Statistics
+
+<p align="left">
+  <a href="https://github.com/SithumManusha">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SithumManusha&show_icons=true&theme=tokyo-night&hide_border=false" alt="Sithum's GitHub Stats" />
+  </a>
+  <a href="https://github.com/SithumManusha">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumManusha&layout=compact&theme=tokyo-night&hide_border=false" alt="Sithum's Top Languages" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://github.com/SithumManusha">
