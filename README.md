@@ -3,6 +3,9 @@
 **Aspiring Software Engineering Intern | Full-Stack & Systems**
 
 <p align="left">
+  <a href="https://sithum-manusha.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
+  </a>
   <a href="https://linkedin.com/in/sithum-manusha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -53,5 +56,8 @@
 ---
 
 ### ✉️ Get In Touch!
+*   🌐 **Live Portfolio:** [sithum-manusha.vercel.app](https://sithum-manusha.vercel.app)
+*   💼 **LinkedIn:** [linkedin.com/in/sithum-manusha](https://linkedin.com/in/sithum-manusha)
+*   📧 **Email:** [appuhamysithum@gmail.com](mailto:appuhamysithum@gmail.com)
 *   📞 **Phone:** [+94 77 552 0570](tel:+94775520570)
 *   📍 **Location:** Moratuwa / Wennappuwa, Sri Lanka
