@@ -1,6 +1,6 @@
 # Hi there, I'm Sithum Manusha! 👋
-### 🎓 2nd Year IT & Management Undergraduate @ University of Moratuwa (UOM)
-**Full-Stack Software Systems & AI Applications Engineer**
+### 🎓 3rd-Year BSc (Hons) in IT & Management @ University of Moratuwa
+**Aspiring Software Engineering Intern | Full-Stack & Systems**
 
 <p align="left">
   <a href="https://linkedin.com/in/sithum-manusha" target="_blank">
@@ -14,27 +14,28 @@
 ---
 
 ### 💼 Career & Internship Focus
-*   🌱 **Specialization:** Distributed Web Architectures, Autonomous AI Intelligence Layers, and Type-Safe Systems.
-*   🚀 **Target Goal:** Open for **Software Engineering / Full-Stack Internships** starting **November 2026**.
-*   💬 **Let's Talk About:** Type-safe RPC architectures (tRPC), Event-driven real-time synchronization (SSE), Autonomous Copilots, and Relational Database Design (PostgreSQL 3NF).
+*   🎓 **Education:** 3rd-Year B.Sc. (Hons) in IT & Management at University of Moratuwa & LL.B. (Hons) Law Student at OUSL.
+*   🚀 **Target Goal:** Actively seeking a **Software Engineering Internship** to learn, contribute, and build scalable production-grade software.
+*   🌱 **Specialization:** Full-Stack Web Development, Distributed REST APIs, Offline-First Systems, and Software Quality Assurance.
+*   💬 **Let's Talk About:** Java (Spring Boot 3), Next.js, TypeScript, NestJS, Clean Architecture, and Database Design (PostgreSQL 3NF).
 
 ---
 
-### 🛠️ Programming Languages & Tech Stack
+### 🛠️ Programming Languages & Frameworks
 
 <p align="left">
   <!-- Languages & Frameworks -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,java,python,postgres,mysql,tailwind,vite,html,css" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nextjs,react,nestjs,nodejs,python,postgres,mysql,tailwind,html,css" alt="Languages & Frameworks" />
   </a>
 </p>
 
-### 🧰 Tools & Platforms I Use Daily
+### 🧰 Tools, Testing & DevOps
 
 <p align="left">
   <!-- Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma,jira" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,figma,jira,playwright" alt="Tools" />
   </a>
 </p>
 
@@ -53,4 +54,4 @@
 
 ### ✉️ Get In Touch!
 *   📞 **Phone:** [+94 77 552 0570](tel:+94775520570)
-*   📍 **Location:** Wennappuwa, North Western Province, Sri Lanka
+*   📍 **Location:** Moratuwa / Wennappuwa, Sri Lanka
