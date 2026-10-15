@@ -44,16 +44,16 @@
 
 <p align="left">
   <a href="https://github.com/SithumManusha">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SithumManusha&show_icons=true&theme=tokyo-night&hide_border=false" alt="Sithum's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SithumManusha&show_icons=true&theme=tokyonight&hide_border=false" alt="Sithum's GitHub Stats" />
   </a>
   <a href="https://github.com/SithumManusha">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumManusha&layout=compact&theme=tokyo-night&hide_border=false" alt="Sithum's Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumManusha&layout=compact&theme=tokyonight&hide_border=false" alt="Sithum's Top Languages" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/SithumManusha">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SithumManusha&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Sithum's Activity Graph" />
+    <img src="https://streak-stats.demolab.com?user=SithumManusha&theme=tokyonight&hide_border=false" alt="Sithum's GitHub Streak" />
   </a>
 </p>
 
