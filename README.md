@@ -40,19 +40,6 @@
 
 ---
 
-### 📊 My GitHub Statistics
-
-<p align="left">
-  <a href="https://github.com/SithumManusha">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SithumManusha&show_icons=true&theme=tokyonight&hide_border=false" alt="Sithum's GitHub Stats" />
-  </a>
-  <a href="https://github.com/SithumManusha">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumManusha&layout=compact&theme=tokyonight&hide_border=false" alt="Sithum's Top Languages" />
-  </a>
-</p>
-
----
-
 ### 🐍 GitHub Contribution Snake
 <p align="left">
   <picture>
