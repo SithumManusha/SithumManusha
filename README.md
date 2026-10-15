@@ -51,12 +51,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/SithumManusha">
-    <img src="https://streak-stats.demolab.com?user=SithumManusha&theme=tokyonight&hide_border=false" alt="Sithum's GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 🐍 GitHub Contribution Snake
