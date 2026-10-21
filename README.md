@@ -44,17 +44,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SithumManusha/SithumManusha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SithumManusha/SithumManusha/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/SithumManusha/SithumManusha/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 ### ✉️ Get In Touch!
 *   🌐 **Live Portfolio:** [sithum-manusha.vercel.app](https://sithum-manusha.vercel.app)
 *   💼 **LinkedIn:** [linkedin.com/in/sithum-manusha](https://linkedin.com/in/sithum-manusha)
