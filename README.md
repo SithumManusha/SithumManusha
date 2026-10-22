@@ -17,7 +17,7 @@
 ---
 
 ### 💼 Career & Internship Focus
-*   🎓 **Education:** 3rd-Year B.Sc. (Hons) in IT & Management at University of Moratuwa & LL.B. (Hons) Law Student at OUSL.
+*   🎓 **Education:** 3rd-Year B.Sc. (Hons) in IT & Management @ University of Moratuwa.
 *   🚀 **Target Goal:** Actively seeking a **Software Engineering Internship** to learn, contribute, and build scalable production-grade software.
 *   🌱 **Specialization:** Full-Stack Web Development, Distributed REST APIs, Offline-First Systems, and Software Quality Assurance.
 *   💬 **Let's Talk About:** Java (Spring Boot 3), Next.js, TypeScript, NestJS, Clean Architecture, and Database Design (PostgreSQL 3NF).
