@@ -3,6 +3,9 @@
 **Aspiring Software Engineering Intern | Full-Stack & Systems**
 
 <p align="left">
+  <a href="https://github.com/SithumManusha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PRO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro">
+  </a>
   <a href="https://sithum-manusha.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
   </a>
