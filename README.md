@@ -6,6 +6,9 @@
   <a href="https://github.com/SithumManusha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PRO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro">
   </a>
+  <a href="https://education.github.com" target="_blank">
+    <img src="https://img.shields.io/badge/Global_Campus-Student-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Global Campus">
+  </a>
   <a href="https://sithum-manusha.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
   </a>
@@ -58,6 +61,8 @@
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
@@ -76,12 +81,15 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
@@ -93,6 +101,15 @@
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
   <img src="https://img.shields.io/badge/UART_Serial_&_RFID-4B5563?style=for-the-badge&logo=circuitverse&logoColor=white" alt="UART & RFID" />
 </p>
+
+---
+
+### 🌟 Developer Tooling & Cloud Stack (GitHub Student Developer Pack)
+Proudly leveraging enterprise-grade developer tooling as a verified **GitHub Pro & Global Campus Student**:
+* 🤖 **AI-Assisted Engineering:** GitHub Copilot for test-driven development, code reviews, and pair programming.
+* ☕ **Enterprise IDEs:** JetBrains IntelliJ IDEA Ultimate & WebStorm for full-stack system architecture.
+* ☁️ **Cloud Infrastructure:** DigitalOcean Droplets & Microsoft Azure for containerized microservice deployments.
+* ⚡ **CI/CD & Cloud IDEs:** GitHub Actions CI/CD automated test runners & GitHub Codespaces cloud dev environments.
 
 ---
 
