@@ -1,5 +1,3 @@
-<img align="right" src="./assets/sithum_profile.png" width="150" alt="Sithum Manusha" />
-
 # Hi there, I'm Sithum Manusha! 👋
 ### 🎓 3rd-Year BSc (Hons) in IT & Management @ University of Moratuwa
 **Aspiring Software Engineering Intern | Full-Stack & Systems**
