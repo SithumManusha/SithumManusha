@@ -9,7 +9,7 @@
   <a href="https://education.github.com" target="_blank">
     <img src="https://img.shields.io/badge/Global_Campus-Student-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Global Campus">
   </a>
-  <a href="https://sithum-manusha.vercel.app" target="_blank">
+  <a href="https://sithummanusha.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
   </a>
   <a href="https://linkedin.com/in/sithum-manusha" target="_blank">
@@ -101,7 +101,7 @@
 
 ### 🔹 Connect with Me
 <p align="left">
-  <a href="https://sithum-manusha.vercel.app" target="_blank">
+  <a href="https://sithummanusha.me" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sithum-manusha" target="_blank">
