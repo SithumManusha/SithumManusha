@@ -2,6 +2,8 @@
 ### 🎓 3rd-Year BSc (Hons) in IT & Management @ University of Moratuwa
 **Aspiring Software Engineering Intern | Full-Stack & Systems**
 
+🌐 **Official Portfolio:** [https://www.sithummanusha.me](https://www.sithummanusha.me/) | 💼 **LinkedIn:** [Sithum Manusha](https://www.linkedin.com/in/sithum-appuhamy-40789721b/)
+
 <p align="left">
   <a href="https://github.com/SithumManusha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PRO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro">
@@ -9,10 +11,10 @@
   <a href="https://education.github.com" target="_blank">
     <img src="https://img.shields.io/badge/Global_Campus-Student-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Global Campus">
   </a>
-  <a href="https://sithummanusha.me" target="_blank">
+  <a href="https://www.sithummanusha.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
   </a>
-  <a href="https://linkedin.com/in/sithum-manusha" target="_blank">
+  <a href="https://www.linkedin.com/in/sithum-appuhamy-40789721b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:appuhamysithum@gmail.com">
