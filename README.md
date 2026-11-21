@@ -32,17 +32,6 @@
 
 ---
 
-### 🚀 Featured Enterprise Projects
-| Project | Architecture & Core Stack | Key Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **Super POS** | Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Socket.io, IndexedDB | Multi-Branch Offline-First Retail ERP with Last-Write-Wins (LWW) conflict resolver and real-time fleet telemetry. | [Live Demo](https://pos-system-pos-web-app.vercel.app) \| [GitHub](https://github.com/Ryzera/Ryzera-POS) |
-| **SwiftDrop** | Java 21, Spring Boot 3.5, Next.js 15, TypeScript, PostgreSQL (PostGIS), RabbitMQ, Docker | Enterprise Microservices Logistics Platform with RabbitMQ topic exchanges, PostGIS zoning, and automated testing (31 JUnit, 97 Vitest). | [GitHub](https://github.com/RJSoori/SwiftDrop) |
-| **CareerFlow** | Java 21, Spring Boot 3, Python FastAPI, Gemini AI, PostgreSQL, Docker, JUnit 5 | Dual-scoring ATS Resume Optimizer & AI Interview Simulator with token-bucket rate-limited Spring Boot gateway. | [Live Demo](https://careerflow-pink.vercel.app) \| [GitHub](https://github.com/SithumManusha/careerflow) |
-| **Ledgerly** | React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, SSE, Vitest | Autonomous AI Financial Intelligence with Greedy Two-Pointer debt-minimization algorithm and real-time SSE alerts. | [Live Demo](https://ledgerly-nine-rust.vercel.app) \| [GitHub](https://github.com/SithumManusha/Ledgerly) |
-| **Pulse AI Blog** | PHP 8, MySQL, SQLite, Gemini AI, Docker, GitHub Actions, CodeQL | Secure AI Content Publishing platform with PDO prepared statements and automated CodeQL vulnerability scanning. | [Live Demo](https://pulse-ai-blog-engine.onrender.com) \| [GitHub](https://github.com/SithumManusha/pulse-ai-blog-engine) |
-
----
-
 ### 🔹 Skills
 
 #### 💻 Programming Languages
