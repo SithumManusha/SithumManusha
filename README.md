@@ -2,7 +2,7 @@
 ### 🎓 3rd-Year BSc (Hons) in IT & Management @ University of Moratuwa
 **Aspiring Software Engineering Intern | Full-Stack & Systems**
 
-🌐 **Official Portfolio:** [https://www.sithummanusha.me](https://www.sithummanusha.me/) | 💼 **LinkedIn:** [Sithum Manusha](https://www.linkedin.com/in/sithum-appuhamy-40789721b/)
+🌐 **Official Portfolio:** [https://www.sithummanusha.me](https://www.sithummanusha.me/) | 💼 **LinkedIn:** [Sithum Manusha](https://linkedin.com/in/sithum-manusha)
 
 <p align="left">
   <a href="https://github.com/SithumManusha" target="_blank">
@@ -14,7 +14,7 @@
   <a href="https://www.sithummanusha.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/sithum-appuhamy-40789721b/" target="_blank">
+  <a href="https://linkedin.com/in/sithum-manusha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:appuhamysithum@gmail.com">
@@ -28,7 +28,18 @@
 *   🎓 **Education:** 3rd-Year B.Sc. (Hons) in IT & Management @ University of Moratuwa.
 *   🚀 **Target Goal:** Actively seeking a **Software Engineering Internship** to learn, contribute, and build scalable production-grade software.
 *   🌱 **Specialization:** Full-Stack Web Development, Distributed REST APIs, Offline-First Systems, and Software Quality Assurance.
-*   💬 **Let's Talk About:** Java (Spring Boot 3), Next.js, TypeScript, NestJS, Clean Architecture, and Database Design (PostgreSQL 3NF).
+*   💬 **Let's Talk About:** Java 21 (Spring Boot 3.5), Next.js 15, TypeScript, NestJS, RabbitMQ, Clean Architecture, and Database Design (PostgreSQL 3NF).
+
+---
+
+### 🚀 Featured Enterprise Projects
+| Project | Architecture & Core Stack | Key Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Super POS** | Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Socket.io, IndexedDB | Multi-Branch Offline-First Retail ERP with Last-Write-Wins (LWW) conflict resolver and real-time fleet telemetry. | [Live Demo](https://pos-system-pos-web-app.vercel.app) \| [GitHub](https://github.com/Ryzera/Ryzera-POS) |
+| **SwiftDrop** | Java 21, Spring Boot 3.5, Next.js 15, TypeScript, PostgreSQL (PostGIS), RabbitMQ, Docker | Enterprise Microservices Logistics Platform with RabbitMQ topic exchanges, PostGIS zoning, and automated testing (31 JUnit, 97 Vitest). | [GitHub](https://github.com/RJSoori/SwiftDrop) |
+| **CareerFlow** | Java 21, Spring Boot 3, Python FastAPI, Gemini AI, PostgreSQL, Docker, JUnit 5 | Dual-scoring ATS Resume Optimizer & AI Interview Simulator with token-bucket rate-limited Spring Boot gateway. | [Live Demo](https://careerflow-pink.vercel.app) \| [GitHub](https://github.com/SithumManusha/careerflow) |
+| **Ledgerly** | React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, SSE, Vitest | Autonomous AI Financial Intelligence with Greedy Two-Pointer debt-minimization algorithm and real-time SSE alerts. | [Live Demo](https://ledgerly-nine-rust.vercel.app) \| [GitHub](https://github.com/SithumManusha/Ledgerly) |
+| **Pulse AI Blog** | PHP 8, MySQL, SQLite, Gemini AI, Docker, GitHub Actions, CodeQL | Secure AI Content Publishing platform with PDO prepared statements and automated CodeQL vulnerability scanning. | [Live Demo](https://pulse-ai-blog-engine.onrender.com) \| [GitHub](https://github.com/SithumManusha/pulse-ai-blog-engine) |
 
 ---
 
@@ -61,6 +72,7 @@
 #### ☁️ Cloud, Backend & Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -71,6 +83,7 @@
 #### 🗄️ Database
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/IndexedDB-5A5A5A?style=for-the-badge&logo=html5&logoColor=white" alt="IndexedDB" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
@@ -116,3 +129,14 @@
 
 *   📞 **Phone:** [+94 77 552 0570](tel:+94775520570)
 *   📍 **Location:** Moratuwa / Wennappuwa, Sri Lanka
+
+---
+
+### 🐍 GitHub Contribution Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SithumManusha/SithumManusha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SithumManusha/SithumManusha/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SithumManusha/SithumManusha/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
